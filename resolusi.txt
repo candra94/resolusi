@@ -3,4 +3,5 @@
 - 1 hari belajar minimal 30 menit
 - klw bisa di dokumentasikan
 - buat youtube pembelajaran atau educasi
-- membuat merge shop
+- membuat themplate wordpress untuk di jual
+- meng update website utama
